@@ -2,6 +2,8 @@
 
 Simple spinner visualizer, created with HTML & CSS.
 
+The live demo for this application can be found here: [https://fromzerotocicero-spinner-visualizer.netlify.app/](https://fromzerotocicero-spinner-visualizer.netlify.app/)
+
 ![Spinner Visualizer gif](./spinner-visualizer.gif)
 
 ## Description
